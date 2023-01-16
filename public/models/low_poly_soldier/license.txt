@@ -1,0 +1,11 @@
+Model Information:
+* title:	low poly soldier
+* source:	https://sketchfab.com/3d-models/low-poly-soldier-daf5de38902e458aa57ff5ba9460ca02
+* author:	Kolos Studios (https://sketchfab.com/KolosStudios)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "low poly soldier" (https://sketchfab.com/3d-models/low-poly-soldier-daf5de38902e458aa57ff5ba9460ca02) by Kolos Studios (https://sketchfab.com/KolosStudios) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
