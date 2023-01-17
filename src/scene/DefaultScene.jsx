@@ -55,7 +55,7 @@ export const DefaultScene = () => {
         <directionalLight position={[3, 0, 3]} intensity={0.5} castShadow />
         <pointLight position={[0, 0, -3]} intensity={0.6} castShadow />
         <pointLight position={[0, 0, 4]} intensity={0.6} castShadow />
-        <ambientLight intensity={0.6} />
+        <ambientLight intensity={1} />
         {/** Physic objects */}
         <Physics
           gravity={[0, -9, 0]}

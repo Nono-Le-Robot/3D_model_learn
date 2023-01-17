@@ -5,8 +5,8 @@ const Zombie = (props) => {
   return (
     <Suspense fallback={null}>
       <EnemyModel
-        path="/models/zombie/scene.gltf"
-        scale={new Array(3).fill(0.006)}
+        path="/models/zombie3/scene.gltf"
+        scale={new Array(3).fill(0.5)}
         rotation={[0, 9.5, 0]}
         position={[5, 0.1, 5.35]}
       />
