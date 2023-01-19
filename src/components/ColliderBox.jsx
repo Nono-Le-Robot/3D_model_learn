@@ -1,13 +1,14 @@
+import { useFrame } from "react-three-fiber";
 import { useBox } from "use-cannon";
 
-const debug = false;
+const debug = true;
 
 export function ColliderBox({ position, rotation, scale }) {
   useBox(() => ({
     args: scale,
     position,
-    type: "Static",
   }));
+
   return (
     debug && (
       <mesh position={position} rotation={rotation}>

@@ -139,15 +139,15 @@ export const Player = () => {
       .add(cameraDirection.clone().multiplyScalar(2));
 
     if (mouseInput.current.left) {
-      // console.clear();
-      // console.log(
-      //   "   x   " +
-      //     sphereRef.current.position.x.toFixed(2) +
-      //     "   y   " +
-      //     sphereRef.current.position.y.toFixed(2) +
-      //     "   z   " +
-      //     sphereRef.current.position.z.toFixed(2)
-      // );
+      //   // console.clear();
+      //   // console.log(
+      //   //   "   x   " +
+      //   //     sphereRef.current.position.x.toFixed(2) +
+      //   //     "   y   " +
+      //   //     sphereRef.current.position.y.toFixed(2) +
+      //   //     "   z   " +
+      //   //     sphereRef.current.position.z.toFixed(2)
+      //   // );
 
       const now = Date.now();
       if (now >= state.current.timeToShoot) {

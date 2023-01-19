@@ -2,7 +2,6 @@ import { Cylinder } from "cannon";
 import { useSphere } from "use-cannon";
 
 const debug = false;
-
 export function ColliderCylinder({ position, rotation, scale }) {
   useSphere(() => ({
     args: scale,
