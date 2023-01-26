@@ -1,7 +1,7 @@
 import { useFrame } from "react-three-fiber";
 import { useBox } from "use-cannon";
 
-const debug = true;
+const debug = false;
 
 export function ColliderBox({ position, rotation, scale }) {
   useBox(() => ({
